@@ -14,5 +14,8 @@
 	</form>
 	</center>
 
+<footer>
+	<p><center>POWER BY HTML5</center></p>	
+</footer>
 </body>
 </html>
