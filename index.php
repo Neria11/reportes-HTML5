@@ -6,7 +6,7 @@
 <body>
 
 	<?php
-		echo "hola mundo <br>";
+		echo "hola mundo NI ENCRIPTA <br>";
 	?>
 	<center>
 	<form action="#" method="post" id="frm">
